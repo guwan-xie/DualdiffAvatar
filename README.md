@@ -7,9 +7,7 @@ Xianguo Liu, Jun Wang, Jielun Zhang, Fengkai Li, Weina Cao, Shaokun Cai
 
 Repository: https://github.com/guwan-xie/DualdiffAvatar
 > **Notice**
-
 >
-
 > This repository is currently under preparation. The complete implementation, trained models, and experiment scripts will be released upon acceptance of the paper.
 
 ---
